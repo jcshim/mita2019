@@ -26,3 +26,7 @@ This talk will giv an overview of this technology and how this disruptive techno
 ## Dr. Jaechang Shim
 * https://www.upwork.com/hiring/for-clients/8-blockchain-applications-help-small-business/
 *
+
+# Keynote Speech 3
+## Prof. Insook Choi(University of Salford, United Kingdom)
+* Future Audience and AI Citizenship: Implications for Creative Industries
