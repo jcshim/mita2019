@@ -1,8 +1,8 @@
 # mita2019
-mita2019 vietnam
+* mita2019 vietnam
 
-## Block chain
-### Prof. Naveen Chilamkurti, Melbourne Australia
+# Keynote Speech 1: Block chain
+## Prof. Naveen Chilamkurti, Melbourne Australia
 
 A technology for security beyond Cryptocurrency
 
@@ -12,14 +12,13 @@ Little we know that Blockchain technology has the ablility to enhanced and may a
 This talk will giv an overview of this technology and how this disruptive technology has great potential in various industries including cybersecurity.
 
 
-# PKI -> Block chain
+### PKI -> Block chain
 
-# Blockchain Obstacles
+### Blockchain Obstacles
 * Time consumming operatations
 
 
-## M\Keynote Speech 2
-### Dr. Jong-Wook Choi: Blockchain: A tool for enhancing productivity in service indeustry
+# Keynote Speech 2
+## Dr. Jong-Wook Choi: Blockchain: A tool for enhancing productivity in service indeustry
 * https://www.weforum.org/agenda/2019/05/global-trade-identity-can-be-the-cornerstone-of-paperless-trade/
 * https://tour.tradelens.com/
-
