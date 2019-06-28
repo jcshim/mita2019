@@ -14,4 +14,6 @@ This talk will giv an overview of this technology and how this disruptive techno
 
 # PKI -> Block chain
 
-
+# Blockchain Obstacles
+* Time consumming operatations
+* 
