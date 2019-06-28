@@ -1,5 +1,5 @@
 # mita2019
-* mita2[019 vietnam](https://sites.google.com/site/icmita2019/)
+* [mita2019 vietnam](https://sites.google.com/site/icmita2019/)
 
 # Keynote Speech 1: Block chain
 ## Prof. Naveen Chilamkurti, Melbourne Australia
