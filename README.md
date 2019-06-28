@@ -22,3 +22,7 @@ This talk will giv an overview of this technology and how this disruptive techno
 ## Dr. Jong-Wook Choi: Blockchain: A tool for enhancing productivity in service indeustry
 * https://www.weforum.org/agenda/2019/05/global-trade-identity-can-be-the-cornerstone-of-paperless-trade/
 * https://tour.tradelens.com/
+
+## Dr. Jaechang Shim
+* https://www.upwork.com/hiring/for-clients/8-blockchain-applications-help-small-business/
+*
